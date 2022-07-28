@@ -7,4 +7,5 @@ Công cụ scan trang login admin của website được code bởi phạm chi�
 # seting up
 1. git clone https://github.com/hacker2008274/Cypher-Admin-VN/
 2. cd Cypher-Admin-VN
-3. python3 Scaners.py
+3. python2 Scaners.py
+4.
